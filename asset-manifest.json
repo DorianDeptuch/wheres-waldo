@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wheres-waldo/static/css/main.511ac680.chunk.css",
+    "main.js": "/wheres-waldo/static/js/main.6a796a92.chunk.js",
+    "main.js.map": "/wheres-waldo/static/js/main.6a796a92.chunk.js.map",
+    "runtime-main.js": "/wheres-waldo/static/js/runtime-main.74d192fe.js",
+    "runtime-main.js.map": "/wheres-waldo/static/js/runtime-main.74d192fe.js.map",
+    "static/js/2.934958f2.chunk.js": "/wheres-waldo/static/js/2.934958f2.chunk.js",
+    "static/js/2.934958f2.chunk.js.map": "/wheres-waldo/static/js/2.934958f2.chunk.js.map",
+    "index.html": "/wheres-waldo/index.html",
+    "static/css/main.511ac680.chunk.css.map": "/wheres-waldo/static/css/main.511ac680.chunk.css.map",
+    "static/js/2.934958f2.chunk.js.LICENSE.txt": "/wheres-waldo/static/js/2.934958f2.chunk.js.LICENSE.txt",
+    "static/media/PXLCON-highres.8125b942.jpg": "/wheres-waldo/static/media/PXLCON-highres.8125b942.jpg",
+    "static/media/angry-bird-pixel.7302a754.png": "/wheres-waldo/static/media/angry-bird-pixel.7302a754.png",
+    "static/media/blue-portal-pixel.0969fb78.png": "/wheres-waldo/static/media/blue-portal-pixel.0969fb78.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d192fe.js",
+    "static/js/2.934958f2.chunk.js",
+    "static/css/main.511ac680.chunk.css",
+    "static/js/main.6a796a92.chunk.js"
+  ]
+}
