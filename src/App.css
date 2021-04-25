@@ -707,17 +707,26 @@ form > button {
   .leaderboard-column {
     width: 40%;
   }
+  .notification-container {
+    width: 50%;
+  }
 }
 
 @media (max-width: 1000px) {
   .leaderboard-column {
     width: 60%;
   }
+  .notification-container {
+    width: 60%;
+  }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 850px) {
   .leaderboard-column {
     width: 80%;
+  }
+  .notification-container {
+    width: 70%;
   }
 }
 
@@ -725,7 +734,11 @@ form > button {
   .leaderboard-column {
     width: 95%;
   }
+  .notification-container {
+    width: 80%;
+  }
 }
+
 @media (max-width: 800px) {
   .level-complete {
     width: 90%;
@@ -735,3 +748,49 @@ form > button {
     font-size: 1.5rem;
   }
 }
+
+/* @media (max-width: 1600px) {
+  .header {
+    position: absolute;
+  }
+} */
+
+/* MEDIA QUERIES FOR MOBILE ZOOM */
+
+/* @media (min-width: 1500px) {
+  .game-stats-container {
+    transform: scale(1.5);
+  }
+  .waldo-title > h1 {
+    font-size: 2.5rem;
+  }
+  .github-link {
+    transform: scale(1.5);
+  }
+}
+
+@media (min-width: 2000px) {
+  .game-stats-container {
+    transform: scale(2);
+  }
+  .waldo-title > h1 {
+    font-size: 3rem;
+  }
+  .github-link {
+    transform: scale(2);
+  }
+}
+
+
+
+@media (min-width: 2500px) {
+  .game-stats-container {
+    transform: scale(2.5);
+  }
+  .waldo-title > h1 {
+    font-size: 4.5rem;
+  }
+  .github-link {
+    transform: scale(2.5);
+  }
+} */

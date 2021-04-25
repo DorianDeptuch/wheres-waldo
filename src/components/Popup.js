@@ -1,5 +1,4 @@
 import React from "react";
-import firebase from "firebase";
 
 function Popup({
   mouseXPosition,
@@ -100,19 +99,6 @@ function Popup({
       setShowNotification(true);
     }
   };
-
-  // const handleWin = () => {
-  //   console.log("nope");
-
-  //   if (foundMagikarp && foundWaldo && foundBluePortal && foundAngryBird) {
-  //     console.log("yup");
-  //     setLevelComplete(true);
-  //     clearInterval(intervalId);
-  //     alert("you beat the level!");
-  //   }
-  // };
-
-  // const intervalId = setInterval(handleWin, 1000);
 
   return (
     <div style={popupPosition} className="popup">
